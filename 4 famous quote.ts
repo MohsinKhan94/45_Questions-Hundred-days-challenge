@@ -1,0 +1,1 @@
+console.log('Allama Iqbal once said,Words,Without Power, is mere Philosophy');
